@@ -24,4 +24,4 @@ Os testes realizados durante o cuso estão no caminho `app\src\androidTest\java\
 
 - [android-teste-espresso-parte-1](https://github.com/alura-cursos/android-teste-espresso-parte-1);
 
-- [android-teste-espresso-parte-2] (https://github.com/alura-cursos/android-teste-espresso-parte-2);
+- [android-teste-espresso-parte-2](https://github.com/alura-cursos/android-teste-espresso-parte-2);
